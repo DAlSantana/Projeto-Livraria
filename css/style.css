@@ -1,0 +1,38 @@
+nav ul a,
+nav .brand-logo {
+    color:#444;
+}
+.sidenav-trigger{
+    color:#26a69a;
+}
+#visible, #visual, #visualrodape, #visualrodape2{
+    color:#e3f2fd;
+}
+.icon-block{
+    padding: 0 15px;
+}
+
+.icon-block .material-icons{
+    font-size: inherit;
+}
+.icon-block p{
+    text-align: justify;
+}
+p {
+    line-height: 2em;  
+}
+h1 {
+    color: #212121;
+}
+header ul a:hover{
+    color: #26a69a;
+    background-color: #212121;
+}
+header ul li a.active
+{
+    background: #26a69a;
+    color:#212121;
+}
+footer a:hover{
+    color: #212121;
+}
